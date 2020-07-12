@@ -4,6 +4,12 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>NSCameraUsageDescription</key>
+	<string>写真を撮影するのに使用します</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>動画を撮影する際に使用します</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>PhotoLibraryから写真を表示するのに使用します</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
